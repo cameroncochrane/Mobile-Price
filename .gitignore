@@ -1,0 +1,7 @@
+# Add here the folder names of the virtual python environment folder(s)
+*.venv
+*.env
+mobile_data/
+
+# Files containing keys
+keys.json

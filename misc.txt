@@ -1,0 +1,19 @@
+##### Create and activate a Python virtual environment ####
+
+macOS / Linux:
+1) Create:  python3 -m venv .venv
+2) Activate: source .venv/bin/activate
+3) (Optional) Upgrade pip: python -m pip install --upgrade pip
+4) Deactivate: deactivate
+
+Windows (CMD):
+1) Create:  py -m venv .venv
+2) Activate: .\.venv\Scripts\activate
+3) (Optional) Upgrade pip: python -m pip install --upgrade pip
+4) Deactivate: deactivate
+
+Windows (PowerShell):
+1) Create:  py -m venv .venv
+2) Activate: .\.venv\Scripts\Activate.ps1
+3) (Optional) Upgrade pip: python -m pip install --upgrade pip
+4) Deactivate: deactivate
